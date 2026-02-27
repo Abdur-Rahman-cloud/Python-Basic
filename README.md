@@ -55,7 +55,7 @@ The number is Negative
 1. Make sure Python is installed on your computer.
 2. Clone this repository:
 git clone "https://github.com/your-username/repository-name.git"
-3. Navigate to the project folder and run the Python file:
+4. Navigate to the project folder and run the Python file:
 python program.py
 
 
@@ -68,4 +68,4 @@ python program.py
 
 
 ## Author
-**Abdur Rahman from Abdul Wali Khan University Mardan"**
+**"Abdur Rahman from Abdul Wali Khan University Mardan"**
